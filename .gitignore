@@ -1,0 +1,16 @@
+# dependencies
+/node_modules
+
+# production
+/dist
+
+# misc
+.DS_Store
+
+# credential
+.env
+
+yarn-debug.log*
+yarn-error.log*
+
+src/config.js
